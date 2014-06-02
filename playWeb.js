@@ -3251,7 +3251,7 @@
       });
     },
     ai_playValue: function(state, my) {
-      return 290;
+      return 199;
     }
   });
 
